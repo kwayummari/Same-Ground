@@ -5,11 +5,9 @@
         <div class="header-upper">
         	<div class="auto-container">
             	<div class="clearfix">
-                	
                 	<div class="pull-left logo-box">
                     	<div class="logo"><a href="index.php"><img src="images/women/logo/logo1.jpg" height="70px" alt="" title=""></a></div>
                     </div>
-                    
                     <div class="pull-right upper-right">
                     	<div class="info-outer clearfix">
 							<!--Info Box-->
