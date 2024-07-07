@@ -4,7 +4,7 @@
             <div class="slide" style="background-image:url(images/bondwa/9.jpg)">
                 <div class="auto-container">
                 	<div class="content">
-                    <h2><?php echo $rows4['title1'];?></h2>
+                    <h2>To improve the student learning experience by ensuring each pupil has a fair start. Be a part of our projects.</h2>
 						<div class="text">To improve the student learning experience by ensuring each pupil has a fair start. Be a part of our projects</div>
                     	<div class="link-box">
 							<a href="about.html" class="theme-btn btn-style-one"><span class="txt">Nominate Now</span></a>
@@ -16,7 +16,7 @@
             <div class="slide" style="background-image:url(images/bondwa/9.jpg)">
                 <div class="auto-container">
                 	<div class="content">
-                    <h2><?php echo $rows4['title1'];?></h2>
+                    <h2>To improve the student learning experience by ensuring each pupil has a fair start. Be a part of our projects.</h2>
 						<div class="text">To improve the student learning experience by ensuring each pupil has a fair start. Be a part of our projects.</div>
                     	<div class="link-box">
 							<a href="about.html" class="theme-btn btn-style-one"><span class="txt">Nominate Now</span></a>
