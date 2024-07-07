@@ -1,7 +1,4 @@
-<!-- Main Header-->
 <header class="main-header header-style-three">
-    	
-		<!-- Header Upper -->
         <div class="header-upper">
         	<div class="auto-container">
             	<div class="clearfix">
@@ -10,23 +7,18 @@
                     </div>
                     <div class="pull-right upper-right">
                     	<div class="info-outer clearfix">
-							<!--Info Box-->
 							<div class="upper-column info-box">
 								<div class="icon-box"><span class="flaticon-24-hours-2"></span></div>
 								<ul>
 									<li><span>Same Ground,</span> <br> Morogoro, Tanzania</li>
 								</ul>
 							</div>
-							
-							<!--Info Box-->
 							<div class="upper-column info-box">
 								<div class="icon-box"><span class="flaticon-call"></span></div>
 								<ul>
 									<li><span>+ 255 762 996 305 </span> <br> samegroundtanzania@gmail.com</li>
 								</ul>
 							</div>
-							
-							<!--Info Box-->
 							<div class="upper-column info-box">
 								<ul class="social-icon-two">
 									<li><a href="https://www.facebook.com/samegroundtanzania/" style="background-color : #000000; color: #ffffff"><span class="fa fa-facebook-f"></span></a></li>
@@ -36,11 +28,7 @@
 								</ul>
 							</div>
                         </div>
-						
                     </div>
-                    
                 </div>
-				
             </div>
         </div>
-        <!--End Header Upper-->
