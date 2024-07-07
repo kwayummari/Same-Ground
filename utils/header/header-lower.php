@@ -2,7 +2,7 @@
 <!--Header Lower-->
 <div class="header-lower">
 			<div class="auto-container">
-				<div class="inner-container clearfix" style="background-color : #b0904f">
+				<div class="inner-container clearfix" style="background-color : #C05109">
 					<div class="nav-outer clearfix">
 						<!--Mobile Navigation Toggler-->
 						<div class="mobile-nav-toggler"><span class="icon flaticon-menu"></span></div>

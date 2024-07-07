@@ -69,7 +69,7 @@ a,
 .shop-page .prod-tabs .add-review .rating .rate-box:hover,
 .shop-page .prod-tabs .add-review .rating .rate-box:focus,
 .shop-page .prod-tabs .add-review .rating .rate-box:active{
-	color:#b0904f;
+	color:#C05109;
 }
 
 /*Background Color*/
@@ -137,23 +137,23 @@ a,
 .main-slider-two .owl-dots .owl-dot.active, .main-slider-two .owl-dots .owl-dot:hover,
 .accordion-box .block .acc-btn.active .icon-outer .icon-minus,
 .main-slider .owl-dots .owl-dot:hover{
-	background-color:#b0904f;
+	background-color:#C05109;
 }
 
 .default-section .counter-column .inner-column .fact-counter:before{
-	background:#b0904f;
-	background:-webkit-linear-gradient(top,rgba(0,0,0,0),#b0904f,rgba(0,0,0,0));
-	background:-moz-linear-gradient(top,rgba(0,0,0,0),#b0904f,rgba(0,0,0,0));
-	background:-ms-linear-gradient(top,rgba(0,0,0,0),#b0904f,rgba(0,0,0,0));
-	background:-o-linear-gradient(top,rgba(0,0,0,0),#b0904f,rgba(0,0,0,0));
+	background:#C05109;
+	background:-webkit-linear-gradient(top,rgba(0,0,0,0),#C05109,rgba(0,0,0,0));
+	background:-moz-linear-gradient(top,rgba(0,0,0,0),#C05109,rgba(0,0,0,0));
+	background:-ms-linear-gradient(top,rgba(0,0,0,0),#C05109,rgba(0,0,0,0));
+	background:-o-linear-gradient(top,rgba(0,0,0,0),#C05109,rgba(0,0,0,0));
 }
 
 .default-section .counter-column .inner-column .fact-counter:after{
-	background:#b0904f;
-	background:-webkit-linear-gradient(left,rgba(0,0,0,0),#b0904f,rgba(0,0,0,0));
-	background:-moz-linear-gradient(left,rgba(0,0,0,0),#b0904f,rgba(0,0,0,0));
-	background:-ms-linear-gradient(left,rgba(0,0,0,0),#b0904f,rgba(0,0,0,0));
-	background:-o-linear-gradient(left,rgba(0,0,0,0),#b0904f,rgba(0,0,0,0));
+	background:#C05109;
+	background:-webkit-linear-gradient(left,rgba(0,0,0,0),#C05109,rgba(0,0,0,0));
+	background:-moz-linear-gradient(left,rgba(0,0,0,0),#C05109,rgba(0,0,0,0));
+	background:-ms-linear-gradient(left,rgba(0,0,0,0),#C05109,rgba(0,0,0,0));
+	background:-o-linear-gradient(left,rgba(0,0,0,0),#C05109,rgba(0,0,0,0));
 }
 
 /*Border Color*/
@@ -210,7 +210,7 @@ a,
 .contact-form .form-group input[type="email"]:focus,
 .contact-form .form-group select:focus,
 .contact-form .form-group textarea:focus{
-	border-color:#b0904f;
+	border-color:#C05109;
 }
 
 /*RGBA Color Light*/
@@ -226,13 +226,13 @@ a,
 
 .services-block .inner-box .image .overlay-box,
 .experiance-section .video-column .image .video-box .overlay-box:before{
-	background-color:rgba(216, 150, 88, 0.9);
+	background-color:rgba(192, 81, 9, 0.9);
 }
 
 @media only screen and (max-width: 767px){
 	
 	.main-menu .navbar-header .navbar-toggle{
-		border-color:#b0904f;
+		border-color:#C05109;
 	}
 	
 	.main-menu .navbar-header .navbar-toggle,
@@ -251,7 +251,7 @@ a,
 	.main-menu .navbar-collapse > .navigation > li.current > a,
 	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
 	.header-style-two.inner-header .main-menu .navigation > li > a{
-		background-color:#b0904f;
+		background-color:#C05109;
 	}
 	
 }

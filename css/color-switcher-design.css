@@ -23,7 +23,7 @@
 }
 
 .color-palate-head {
-    background: #ab7442 none repeat scroll 0 0;
+    background: #C05109 none repeat scroll 0 0;
     padding: 12px 0;
 }
 
@@ -98,7 +98,7 @@
 }
 
 .palate.default-color {
-    background: #ab7442 none repeat scroll 0 0;
+    background: #C05109 none repeat scroll 0 0;
 }
 
 .palate.green-color {
@@ -146,7 +146,7 @@
 }
 
 .color-trigger {
-    background: #ab7442 none repeat scroll 0 0;
+    background: #C05109 none repeat scroll 0 0;
     cursor: pointer;
     height: 50px;
     right: -46px;

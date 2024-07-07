@@ -7,7 +7,7 @@
             	<div class="clearfix">
                 	
                 	<div class="pull-left logo-box">
-                    	<div class="logo"><a href="index.php"><img src="images/women/logo/logo.png" alt="" title=""></a></div>
+                    	<div class="logo"><a href="index.php"><img src="images/women/logo/logo1.jpg" height="70px" alt="" title=""></a></div>
                     </div>
                     
                     <div class="pull-right upper-right">
@@ -31,10 +31,10 @@
 							<!--Info Box-->
 							<div class="upper-column info-box">
 								<ul class="social-icon-two">
-									<li><a href="https://www.facebook.com/muslimwomenawardstz/" style="background-color : #037c39; color: #ffffff"><span class="fa fa-facebook-f"></span></a></li>
-									<li><a href="https://www.instagram.com/muslimwomenawardstz/" style="background-color : #037c39; color: #ffffff"><span class="fa fa-instagram"></span></a></li>
-									<li><a href="https://www.twitter.com/muslimwomenawardstz/" style="background-color : #037c39; color: #ffffff"><span class="fa fa-twitter"></span></a></li>
-									<li><a href="https://www.youtube.com/muslimwomenawardstz/" style="background-color : #037c39; color: #ffffff"><span class="fa fa-youtube"></span></a></li>
+									<li><a href="https://www.facebook.com/muslimwomenawardstz/" style="background-color : #000000; color: #ffffff"><span class="fa fa-facebook-f"></span></a></li>
+									<li><a href="https://www.instagram.com/muslimwomenawardstz/" style="background-color : #000000; color: #ffffff"><span class="fa fa-instagram"></span></a></li>
+									<li><a href="https://www.twitter.com/muslimwomenawardstz/" style="background-color : #000000; color: #ffffff"><span class="fa fa-twitter"></span></a></li>
+									<li><a href="https://www.youtube.com/muslimwomenawardstz/" style="background-color : #000000; color: #ffffff"><span class="fa fa-youtube"></span></a></li>
 								</ul>
 							</div>
                         </div>

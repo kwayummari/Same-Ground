@@ -4,7 +4,7 @@
             	<div class="clearfix">
                 	
                 	<div class="pull-left logo-box">
-                    	<div class="logo"><a href="index.php"><img src="images/women/logo/logo.png" alt="" title=""></a></div>
+                    	<div class="logo"><a href="index.php"><img src="images/women/logo/logo.jpg" alt="" title=""></a></div>
                     </div>
                     
                     <div class="pull-right upper-right">
@@ -35,7 +35,7 @@
 								</ul>
 							</div>
                         </div>
-						
+						0620719589
 						<?php include 'utils/header/header-lower-others.php' ?>
 						<!--End Header Lower-->
 						
