@@ -1,5 +1,4 @@
 
-<!--Header Lower-->
 <div class="header-lower">
 			<div class="auto-container">
 				<div class="inner-container clearfix" style="background-color : #C05109">
@@ -42,4 +41,3 @@
 				</div>
 			</div>
 		</div>
-		<!--End Header Lower-->
