@@ -1,4 +1,3 @@
-<!-- Sticky Header  -->
 <div class="sticky-header">
             <div class="auto-container clearfix">
                 <!--Logo-->
@@ -7,8 +6,7 @@
                 </div>
                 <div class="pull-right">
                     <nav class="main-menu">
-                    </nav><!-- Main Menu End-->
-					<!-- Main Menu End-->
+                    </nav>
                 </div>
             </div>
-        </div><!-- End Sticky Menu -->
+        </div>
