@@ -4,7 +4,7 @@
 <body class="hidden-bar-wrapper">
 <div class="page-wrapper">
 	<!-- Preloader -->
-    <div id="preloader"><p id="para"></p></div>
+    <!-- <div id="preloader"><p id="para"></p></div> -->
 	<?php include 'utils/header/header-upper.php' ?>
 	<?php include 'utils/header/header-lower.php' ?>
 	<?php include 'utils/header/sticky-header.php' ?>

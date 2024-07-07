@@ -1,7 +1,7 @@
 <section class="main-slider style-two">
         <div class="main-slider-carousel owl-carousel owl-theme">
 
-            <div class="slide" style="background-image:url(images/bondwa/9.jpg)">
+            <div class="slide" style="background-image:url(../../images/bondwa/9.jpg)">
                 <div class="auto-container">
                 	<div class="content">
                     <h2>To improve the student learning experience by ensuring each pupil has a fair start. Be a part of our projects.</h2>
@@ -13,7 +13,7 @@
                 </div>
             </div>
 
-            <div class="slide" style="background-image:url(images/bondwa/9.jpg)">
+            <div class="slide" style="background-image:url(../../images/bondwa/ddd.jpg)">
                 <div class="auto-container">
                 	<div class="content">
                     <h2>To improve the student learning experience by ensuring each pupil has a fair start. Be a part of our projects.</h2>
