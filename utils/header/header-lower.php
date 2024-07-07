@@ -1,11 +1,4 @@
-<?php
-include 'cms/connection/index.php';
 
-  $query="select * from years";
-  $result4=mysqli_query($connect,$query);
-  $total_users = mysqli_num_rows($result4);
-
- ?>
 <!--Header Lower-->
 <div class="header-lower">
 			<div class="auto-container">
@@ -32,18 +25,6 @@ include 'cms/connection/index.php';
 									<li class="dropdown"><a href="#">About</a>
 										<ul>
 											<li><a href="about.php">About Us</a></li>
-										</ul>
-									</li>
-									<li class="dropdown"><a href="#">Archive</a>
-									<ul>
-										<?php   // LOOP TILL END OF DATA
-                                                    while($rows4=$result4->fetch_assoc())
-                                                         {
-                                                       ?>
-											<li><a href="winners.php?year=<?php echo base64_encode($rows4['year']);?>">Winners <?php echo $rows4['year'];?></a></li>
-											<?php
-                                                     }
-                                                     ?>
 										</ul>
 									</li>
 									<li class="dropdown"><a href="#">Awards 2023</a>
