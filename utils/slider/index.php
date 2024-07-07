@@ -1,7 +1,7 @@
 <section class="main-slider style-two">
         <div class="main-slider-carousel owl-carousel owl-theme">
 
-            <div class="slide" style="background-image:url(cms/cv/<?php echo $rows4['image'];?>)">
+            <div class="slide" style="background-image:url(images/bondwa/9.jpg)">
                 <div class="auto-container">
                 	<div class="content">
                     <h2><?php echo $rows4['title1'];?></h2>
@@ -13,7 +13,7 @@
                 </div>
             </div>
 
-            <div class="slide" style="background-image:url(cms/cv/<?php echo $rows4['image'];?>)">
+            <div class="slide" style="background-image:url(images/bondwa/9.jpg)">
                 <div class="auto-container">
                 	<div class="content">
                     <h2><?php echo $rows4['title1'];?></h2>
