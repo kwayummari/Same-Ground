@@ -31,18 +31,6 @@ include 'cms/connection/index.php';
 											<li><a href="about.php">About Us</a></li>
 										</ul>
 									</li>
-									<li class="dropdown"><a href="#">Archive</a>
-										<ul>
-										<?php   // LOOP TILL END OF DATA
-                                                    while($year=$years->fetch_assoc())
-                                                         {
-                                                       ?>
-											<li><a href="winners.php?year=<?php echo base64_encode($year['year']);?>">Winners <?php echo $year['year'];?></a></li>
-											<?php
-                                                     }
-                                                     ?>
-										</ul>
-									</li>
 									<li class="dropdown"><a href="#">Awards <?php echo date('Y') ?></a>
 										<ul>
 											<li><a href="categories.php">Categories</a></li>
