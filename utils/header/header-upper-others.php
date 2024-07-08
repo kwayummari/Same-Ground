@@ -4,7 +4,7 @@
             	<div class="clearfix">
                 	
                 	<div class="pull-left logo-box">
-                    	<div class="logo"><a href="index.php"><img src="images/women/logo/logo.jpg" alt="" title=""></a></div>
+                    	<div class="logo"><a href="index.php"><img src="images/women/logo/logo1.jpg" alt="" title=""></a></div>
                     </div>
                     
                     <div class="pull-right upper-right">
