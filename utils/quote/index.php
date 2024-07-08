@@ -6,9 +6,9 @@
 				<!-- Title Column -->
 				<div class="title-column col-lg-8 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<div class="experiance">Surah Al-Tawbah, verse 71</div>
-						<h2>"وَالْمُؤْمِنَاتُ وَالْمُؤْمِنُونَ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ"</h2>
-                        <h5 style="color: white">"The believing women and the believing men are allies of one another. They enjoin what is right and forbid what is wrong."</h5>
+						<!-- <div class="experiance">Surah Al-Tawbah, verse 71</div> -->
+						<h2>"#smallstepsbigdifference"</h2>
+                        <h5 style="color: white">"To improve the student learning experience by ensuring each pupil has a fair start. Be a part of our projects."</h5>
 					</div>
 				</div>
 				

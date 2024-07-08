@@ -14,6 +14,8 @@
 	<?php include 'utils/prize/index.php' ?>
 	<?php include 'utils/action/index.php' ?>
 	<?php include 'utils/counter/index.php' ?>
+	<?php include 'utils/quote/index.php' ?>
+	<?php include 'utils/footer/index.php' ?>
 	
 	
 	
