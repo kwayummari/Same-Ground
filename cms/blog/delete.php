@@ -5,7 +5,7 @@ $sql= "DELETE FROM blog WHERE id= '$id'";
 $result=mysqli_query($connect,$sql);
 
 if ($result) {
-                header('location: all_blog.php');
+                header('location: blog.php');
              }
 mysqli_close($connect);
 ?>
