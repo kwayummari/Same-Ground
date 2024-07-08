@@ -10,17 +10,18 @@
 						<!-- Upper Box -->
 						<div class="upper-box">
 							<div class="upper-inner">
-								<div class="number">25</div>
+								<div class="number">10</div>
 								<h3>Years of Experience</h3>
 								<div class="upper-title">in This Industry</div>
 							</div>
 						</div>
 						<!-- Sec Title -->
 						<div class="sec-title">
-							<h2>About Sawmall</h2>
+							<h2>About Same Ground</h2>
 							<div class="separate"></div>
 						</div>
-						<div class="text">#smallstepsbigdifference.</div>
+						<div class="text">The Same Ground is a Tanzanian NGO promoting equality for children's education through initiatives like supplying educational resources, fundraising, and creative programs.
+SG aims to provide high-quality education for all students, especially disadvantaged children, by emphasizing fair access, raising awareness, and empowering local communities towards self-sufficiency.</div>
 						<div class="lower-box">
 							<div class="clearfix">
 								<a href="about.php" class="theme-btn btn-style-two"><span class="txt">About Us</span></a>
@@ -34,7 +35,7 @@
 				<div class="video-column col-lg-6 col-md-12 col-sm-12">
 					<div class="inner-column">
 						<div class="image">
-							<img src="images/women/logo/logos.png" alt="" />
+							<img src="images/women/logo/logo.png" alt="" />
 							<!--Video Box-->
 							<div class="video-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms" style="background-image:url(images/resource/video-img.jpg)">
 								<figure class="video-image">
