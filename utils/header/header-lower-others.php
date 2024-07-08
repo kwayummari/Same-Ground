@@ -31,11 +31,6 @@ include 'cms/connection/index.php';
 											<li><a href="about.php">About Us</a></li>
 										</ul>
 									</li>
-									<li class="dropdown"><a href="#">Awards <?php echo date('Y') ?></a>
-										<ul>
-											<li><a href="categories.php">Categories</a></li>
-										</ul>
-									</li>
 									<li><a href="blog.php">Blog</a>
 									</li>
 								</ul>
