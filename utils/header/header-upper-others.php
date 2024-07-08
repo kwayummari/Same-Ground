@@ -35,7 +35,6 @@
 								</ul>
 							</div>
                         </div>
-						0620719589
 						<?php include 'utils/header/header-lower-others.php' ?>
 						<!--End Header Lower-->
 						
