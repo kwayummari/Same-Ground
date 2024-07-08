@@ -13,7 +13,7 @@
 							<div class="upper-column info-box">
 								<div class="icon-box"><span class="flaticon-24-hours-2"></span></div>
 								<ul>
-                                <li><span>Abla complex,</span> <br> Dar es Salaam, Tanzania</li>
+                                <li><span>Same Ground,</span> <br> Morogoro, Tanzania</li>
 								</ul>
 							</div>
 							
