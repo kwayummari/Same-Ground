@@ -9,7 +9,7 @@ $username = $_SESSION['name'];
     <div class="d-flex align-items-center justify-content-between">
       <a href="#" class="logo d-flex align-items-center">
         <img src="../cv/images/logo/icon.png" alt="">
-        <span class="d-none d-lg-block">TANZANIA MUSLIM WOMEN</span>
+        <span class="d-none d-lg-block">SAME GROUND</span>
       </a>
       <i class="bi bi-list toggle-sidebar-btn"></i>
     </div><!-- End Logo -->

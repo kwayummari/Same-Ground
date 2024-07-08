@@ -20,7 +20,7 @@
 							<h2>About Sawmall</h2>
 							<div class="separate"></div>
 						</div>
-						<div class="text">Every year Tanzania Muslim women will hold this event to continue to exhibit the evolutionary trends with explicit themes that will go a long way in addressing some of the stumbling issues affecting Muslim women of today. We regularly import fine antique pieces that are sold at trade prices.</div>
+						<div class="text">#smallstepsbigdifference.</div>
 						<div class="lower-box">
 							<div class="clearfix">
 								<a href="about.php" class="theme-btn btn-style-two"><span class="txt">About Us</span></a>
