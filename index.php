@@ -16,6 +16,7 @@
 	<?php include 'utils/counter/index.php' ?>
 	<?php include 'utils/winners/index.php' ?>
 	<?php include 'utils/quote/index.php' ?>
+	<?php include 'utils/partners/partners.php' ?>
 	<?php include 'utils/footer/index.php' ?>
 </div>
 <?php include 'utils/js/index.php' ?>

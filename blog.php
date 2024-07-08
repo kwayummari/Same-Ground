@@ -69,7 +69,7 @@ $total_users = mysqli_num_rows($result4);
 
 			</div>
 		</section>
-		<!-- End Blog Page Section -->
+		<?php include 'utils/partners/partners.php' ?>
 		<?php include 'utils/footer/index.php' ?>
 	</div>
 	<?php include 'utils/js/index.php' ?>
