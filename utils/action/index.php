@@ -13,7 +13,7 @@
 				<!-- Button Column -->
 				<div class="btn-column col-lg-5 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<a href="#" class="theme-btn btn-style-four"><span class="txt">Don't wait, nominate today</span></a>
+						<a href="https://www.gofundme.com/f/same-ground-tanzania?member=24176107&utm_campaign=p_cp+share-sheet&utm_content=undefined&utm_medium=copy_link_all&utm_source=customer&utm_term=undefined" class="theme-btn btn-style-four"><span class="txt">Don't wait, Donate today</span></a>
 					</div>
 				</div>
 				

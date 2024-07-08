@@ -15,7 +15,7 @@
 						</div>
 						<a href="services.html" class="theme-btn btn-style-one"><span class="txt">Read More</span></a>
 						<div class="image">
-							<img src="images/background/z.png" height="50px" alt="" />
+							<img src="images/background/z.png" alt="" />
 						</div>
 					</div>
 				</div>

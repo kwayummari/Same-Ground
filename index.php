@@ -11,7 +11,11 @@
  	<?php include 'utils/header/index.php' ?>
 	<?php include 'utils/slider/index.php' ?>
 	<?php include 'utils/about/index.php' ?>
+	<?php include 'utils/prize/index.php' ?>
+	<?php include 'utils/action/index.php' ?>
 	<?php include 'utils/counter/index.php' ?>
+	
+	
 	
 </div>
 <!--End pagewrapper-->
