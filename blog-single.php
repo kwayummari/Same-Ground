@@ -39,7 +39,7 @@ $total_users = mysqli_num_rows($result4);
 		<div class="sidebar-page-container">
 			<div class="auto-container">
 				<div class="row clearfix">
-					<?php   // LOOP TILL END OF DATA
+					<?php
 					while ($rows4 = $result4->fetch_assoc()) {
 					?>
 						<div class="content-side col-lg-12 col-md-12 col-sm-12">
@@ -51,6 +51,7 @@ $total_users = mysqli_num_rows($result4);
 											<li><?php echo $rows4['date']; ?></li>
 										</ul>
 										<h3><?php echo $rows4['title']; ?></h3>
+										<img alt=\"\" src=\"blob:https://sameground.or.tz/cms/cv/99ee2d20-05de-4192-a32c-aa12d892f4d4\" width=\"1000\" />
 										<div class="text">
 											<p><?php echo $rows4['description']; ?>.</p>
 										</div>
