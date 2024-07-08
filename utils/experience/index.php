@@ -34,6 +34,9 @@ SG aims to provide high-quality education for all students, especially disadvant
 				<!-- Video Column -->
 				<div class="video-column col-lg-6 col-md-12 col-sm-12">
 					<div class="inner-column">
+						<div class="image">
+							<img src="images/women/logo/logo.png" alt="" />
+						</div>
 						
 						<!-- Info Box -->
 						<div class="info-box">
