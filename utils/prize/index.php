@@ -14,7 +14,7 @@
 								<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Innovation</div>
 								<div class="acc-content">
 									<div class="content">
-										<div class="text">The positive impact the nominee has made on the Muslim community in Tanzania. This could include contributions to religious and cultural activities, as well as involvement in charitable and social initiatives that benefit the community. The nominee's work may have helped to foster a greater sense of unity and cohesiveness among Tanzanian Muslims, or contributed to the growth and development of the Muslim community in Tanzania. Ultimately, the first point recognizes the importance of the nominee's work in relation to the Muslim community in Tanzania, and the positive outcomes that have resulted from their efforts.</div>
+										<div class="text">Innovation, as an organizational value, drives progress and competitive advantage. It involves fostering a culture that encourages creativity, experimentation, and continuous improvement. Organizations that prioritize innovation are better positioned to adapt to market changes, meet customer needs, and achieve sustainable growth. Key elements include investing in research and development, embracing new technologies, and promoting collaboration across teams. By embedding innovation into their core values, organizations can ensure they remain at the forefront of their industries and continue to deliver exceptional value to their customers.</div>
 									</div>
 								</div>
 							</li>
@@ -23,7 +23,7 @@
 								<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Teamwork</div>
 								<div class="acc-content">
 									<div class="content">
-										<div class="text">The nominee's demonstrated commitment to promoting education and empowerment among women. This could include efforts to increase access to education and training opportunities for women in Tanzania, as well as initiatives that help to promote women's rights and economic empowerment. The nominee's work may have helped to overcome barriers that prevent women from fully participating in society, or helped to create a more supportive and enabling environment for women in Tanzania. Ultimately, the second point recognizes the critical role that education and empowerment play in advancing the status of women in Tanzania, and the importance of the nominee's contributions in this area.</div>
+										<div class="text">Teamwork, as an organizational value, emphasizes collaboration, communication, and mutual support to achieve common goals. It fosters a culture where diverse skills and perspectives come together to drive innovation and excellence. By prioritizing teamwork, organizations enhance problem-solving, increase productivity, and build a positive work environment, ensuring collective success and continuous improvement.</div>
 									</div>
 								</div>
 							</li>
@@ -33,7 +33,7 @@
 								<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Accountability</div>
 								<div class="acc-content">
 									<div class="content">
-										<div class="text">The nominee's contributions to the advancement of social justice and human rights in Tanzania. This could include efforts to address issues such as poverty, inequality, discrimination, and violence, as well as work to promote justice, fairness, and equality in society. The nominee's work may have helped to increase awareness of human rights issues in Tanzania, or contributed to the development of policies and programs that promote social justice and human rights. Ultimately, the third point recognizes the critical role that social justice and human rights play in creating a more just and equitable society, and the importance of the nominee's contributions in this area.</div>
+										<div class="text">Accountability, as an organizational value, emphasizes responsibility and ownership of actions and outcomes. It involves setting clear expectations, being transparent, and holding oneself and others accountable for performance and decisions. By prioritizing accountability, organizations foster trust, enhance performance, and drive continuous improvement, ensuring that goals are met with integrity and reliability.</div>
 									</div>
 								</div>
 							</li>
