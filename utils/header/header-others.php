@@ -3,7 +3,7 @@
     	
 		<div class="header-top-one">
 			<div class="auto-container">
-				<div class="text">#smallstepsbigdifference</div>
+				<div class="text">The Same Ground is a Tanzanian NGO promoting equality for children's education through initiatives like supplying educational resources, fundraising, and creative programs.</div>
 			</div>
 		</div>
 		
