@@ -18,9 +18,6 @@ $username = $_SESSION['name'];
     <!-- <div id="preloader"><p id="para"></p></div> -->
 <div class="page-wrapper">
  	
-    <!-- Preloader -->
-    <div id="preloader"><p id="para"></p></div>
- 	
 	<?php include 'utils/header/header-others.php' ?>
     <!--End Main Header -->
 	
