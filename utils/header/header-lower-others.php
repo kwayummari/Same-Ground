@@ -1,11 +1,3 @@
-<?php
-include 'cms/connection/index.php';
-
-  $query="select * from years";
-  $years=mysqli_query($connect,$query);
-
- ?>
-<!--Header Lower-->
 <div class="header-lower clearfix">
 							
 							<div class="nav-outer clearfix">
