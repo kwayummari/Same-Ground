@@ -1,4 +1,7 @@
 <?php
+ini_set('display_errors', '1');
+ini_set('display_startup_errors', '1');
+error_reporting(E_ALL);
 include 'cms/connection/index.php';
 session_start();
 $user_id = $_SESSION['id'];
@@ -36,7 +39,37 @@ echo $result4;
 		</section>
 		<!--End Page Title-->
 
-		
+		<!-- Blog Page Section -->
+		<section class="blog-page-section">
+			<div class="auto-container">
+				<div class="row clearfix">
+					<?php
+					while ($rows4 = $result4->fetch_assoc()) {
+					?>
+						<!-- News Block -->
+						<div class="news-block col-lg-6 col-md-12 col-sm-12">
+							<div class="inner-box">
+								<div class="image">
+									<a href="blog-single.php?id=<?php echo base64_encode($rows4['id']) ?>"><img src="cms/cv/<?php echo $rows4['image']; ?>" alt="" /></a>
+								</div>
+								<div class="lower-content">
+									<ul class="post-meta">
+										<li>TWA</li>
+										<li><?php echo $rows4['date']; ?></li>
+									</ul>
+									<h3><a href="blog-single.php?id=<?php echo base64_encode($rows4['id']) ?>"><?php echo $rows4['title']; ?></a></h3>
+									<a href="blog-single.php?id=<?php echo base64_encode($rows4['id']) ?>" class="read-more">Read More</a>
+								</div>
+							</div>
+						</div>
+					<?php
+					}
+					?>
+				</div>
+
+
+			</div>
+		</section>
 		<!-- End Blog Page Section -->
 		<?php include 'utils/footer/index.php' ?>
 	</div>
