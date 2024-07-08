@@ -5,96 +5,132 @@
 							<div class="gallery-block style-two">
 								<div class="inner-box">
 									<div class="image">
-										<img src="images/women/awards/2.jpg" alt="" />
+										<img src="images/gallery/dd.jpg" height="50px" alt="" />
 										<div class="overlay-box">
 											<div class="options">
-												<a href="projects-detail.html" class="plus-icon"><span class="icon flaticon-unlink"></span></a>
-												<a href="images/gallery/8.jpg" class="plus-icon lightbox-image" data-fancybox-group="gallery-one"><span class="icon flaticon-increase-size-option"></span></a>
-											</div>
-											<div class="content clearfix">
-												<h3><a href="projects-detail.html">Name</a></h3>
-												<div class="category">Category</div>
+												<a href="#" class="plus-icon"><span class="icon flaticon-unlink"></span></a>
+												<a href="images/gallery/dd.jpg" class="plus-icon lightbox-image" data-fancybox-group="gallery-one"><span class="icon flaticon-increase-size-option"></span></a>
 											</div>
 										</div>
 									</div>
 								</div>
 							</div>
-							
-							<!-- Gallery Block -->
 							<div class="gallery-block style-two">
 								<div class="inner-box">
 									<div class="image">
-										<img src="images/women/awards/3.jpg" alt="" />
+										<img src="images/gallery/gg.jpg" height="50px" alt="" />
 										<div class="overlay-box">
 											<div class="options">
-												<a href="projects-detail.html" class="plus-icon"><span class="icon flaticon-unlink"></span></a>
-												<a href="images/gallery/9.jpg" class="plus-icon lightbox-image" data-fancybox-group="gallery-one"><span class="icon flaticon-increase-size-option"></span></a>
-											</div>
-											<div class="content clearfix">
-												<h3><a href="projects-detail.html">Name</a></h3>
-												<div class="category">Category</div>
+												<a href="#" class="plus-icon"><span class="icon flaticon-unlink"></span></a>
+												<a href="images/gallery/gg.jpg" class="plus-icon lightbox-image" data-fancybox-group="gallery-one"><span class="icon flaticon-increase-size-option"></span></a>
 											</div>
 										</div>
 									</div>
 								</div>
 							</div>
-							
-							<!-- Gallery Block -->
 							<div class="gallery-block style-two">
 								<div class="inner-box">
 									<div class="image">
-										<img src="images/women/awards/4.jpg" alt="" />
+										<img src="images/gallery/m.jpg" height="50px" alt="" />
 										<div class="overlay-box">
 											<div class="options">
-												<a href="projects-detail.html" class="plus-icon"><span class="icon flaticon-unlink"></span></a>
-												<a href="images/gallery/10.jpg" class="plus-icon lightbox-image" data-fancybox-group="gallery-one"><span class="icon flaticon-increase-size-option"></span></a>
-											</div>
-											<div class="content clearfix">
-												<h3><a href="projects-detail.html">Name</a></h3>
-												<div class="category">Category</div>
+												<a href="#" class="plus-icon"><span class="icon flaticon-unlink"></span></a>
+												<a href="images/gallery/m.jpg" class="plus-icon lightbox-image" data-fancybox-group="gallery-one"><span class="icon flaticon-increase-size-option"></span></a>
 											</div>
 										</div>
 									</div>
 								</div>
 							</div>
-							
-							<!-- Gallery Block -->
 							<div class="gallery-block style-two">
 								<div class="inner-box">
 									<div class="image">
-										<img src="images/women/awards/5.jpg" alt="" />
+										<img src="images/gallery/b.jpg" height="50px" alt="" />
 										<div class="overlay-box">
 											<div class="options">
-												<a href="projects-detail.html" class="plus-icon"><span class="icon flaticon-unlink"></span></a>
+												<a href="#" class="plus-icon"><span class="icon flaticon-unlink"></span></a>
+												<a href="images/gallery/b.jpg" class="plus-icon lightbox-image" data-fancybox-group="gallery-one"><span class="icon flaticon-increase-size-option"></span></a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="gallery-block style-two">
+								<div class="inner-box">
+									<div class="image">
+										<img src="images/gallery/5.jpg" height="50px" alt="" />
+										<div class="overlay-box">
+											<div class="options">
+												<a href="#" class="plus-icon"><span class="icon flaticon-unlink"></span></a>
+												<a href="images/gallery/5.jpg" class="plus-icon lightbox-image" data-fancybox-group="gallery-one"><span class="icon flaticon-increase-size-option"></span></a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="gallery-block style-two">
+								<div class="inner-box">
+									<div class="image">
+										<img src="images/gallery/6.jpg" height="50px" alt="" />
+										<div class="overlay-box">
+											<div class="options">
+												<a href="#" class="plus-icon"><span class="icon flaticon-unlink"></span></a>
+												<a href="images/gallery/6.jpg" class="plus-icon lightbox-image" data-fancybox-group="gallery-one"><span class="icon flaticon-increase-size-option"></span></a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="gallery-block style-two">
+								<div class="inner-box">
+									<div class="image">
+										<img src="images/gallery/7.jpg" height="50px" alt="" />
+										<div class="overlay-box">
+											<div class="options">
+												<a href="#" class="plus-icon"><span class="icon flaticon-unlink"></span></a>
 												<a href="images/gallery/7.jpg" class="plus-icon lightbox-image" data-fancybox-group="gallery-one"><span class="icon flaticon-increase-size-option"></span></a>
 											</div>
-											<div class="content clearfix">
-												<h3><a href="projects-detail.html">Name</a></h3>
-												<div class="category">Category</div>
-											</div>
 										</div>
 									</div>
 								</div>
 							</div>
-							
-							<!-- Gallery Block -->
 							<div class="gallery-block style-two">
 								<div class="inner-box">
 									<div class="image">
-										<img src="images/women/awards/6.jpg" alt="" />
+										<img src="images/gallery/zz.jpg" height="50px" alt="" />
 										<div class="overlay-box">
 											<div class="options">
-												<a href="projects-detail.html" class="plus-icon"><span class="icon flaticon-unlink"></span></a>
-												<a href="images/gallery/8.jpg" class="plus-icon lightbox-image" data-fancybox-group="gallery-one"><span class="icon flaticon-increase-size-option"></span></a>
-											</div>
-											<div class="content clearfix">
-												<h3><a href="projects-detail.html">Name</a></h3>
-												<div class="category">Category</div>
+												<a href="#" class="plus-icon"><span class="icon flaticon-unlink"></span></a>
+												<a href="images/gallery/zz.jpg" class="plus-icon lightbox-image" data-fancybox-group="gallery-one"><span class="icon flaticon-increase-size-option"></span></a>
 											</div>
 										</div>
 									</div>
 								</div>
 							</div>
-							
+							<div class="gallery-block style-two">
+								<div class="inner-box">
+									<div class="image">
+										<img src="images/gallery/9.jpg" height="50px" alt="" />
+										<div class="overlay-box">
+											<div class="options">
+												<a href="#" class="plus-icon"><span class="icon flaticon-unlink"></span></a>
+												<a href="images/gallery/9.jpg" class="plus-icon lightbox-image" data-fancybox-group="gallery-one"><span class="icon flaticon-increase-size-option"></span></a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="gallery-block style-two">
+								<div class="inner-box">
+									<div class="image">
+										<img src="images/gallery/10.jpg" height="50px" alt="" />
+										<div class="overlay-box">
+											<div class="options">
+												<a href="#" class="plus-icon"><span class="icon flaticon-unlink"></span></a>
+												<a href="images/gallery/10.jpg" class="plus-icon lightbox-image" data-fancybox-group="gallery-one"><span class="icon flaticon-increase-size-option"></span></a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>

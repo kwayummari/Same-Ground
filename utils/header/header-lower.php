@@ -16,15 +16,13 @@
 								<ul class="navigation clearfix">
 									<li><a href="index.php">Home</a>
 									</li>
-									<li class="dropdown"><a href="#">About</a>
+									<li class="dropdown"><a href="#">Our Story</a>
 										<ul>
-											<li><a href="about.php">About Us</a></li>
+											<li><a href="#">About Us</a></li>
+											<li><a href="#">Our Team</a></li>
 										</ul>
 									</li>
-									<li class="dropdown"><a href="#">Awards 2023</a>
-										<ul>
-											<li><a href="categories.php">Categories</a></li>
-										</ul>
+									<li ><a href="#">What We Do</a>
 									</li>
 									<li><a href="blog.php">Blog</a>
 									</li>
