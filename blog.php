@@ -14,14 +14,8 @@ $username = $_SESSION['name'];
 <html>
 <?php include 'utils/head/index.php' ?>
 <body class="hidden-bar-wrapper">
-	<!-- Preloader -->
-    <!-- <div id="preloader"><p id="para"></p></div> -->
 <div class="page-wrapper">
- 	
 	<?php include 'utils/header/header-others.php' ?>
-    <!--End Main Header -->
-	
-	<!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/12.jpg)">
     	<div class="auto-container">
 			<div class="clearfix">
