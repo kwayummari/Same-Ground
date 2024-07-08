@@ -82,7 +82,7 @@ $id = base64_decode($_GET['id']);
 		</div>
 	</div>
 	<?php include 'utils/quote/index.php' ?>
-	<?php include 'utils/quote/index.php' ?>
+	<?php include 'utils/partners/partners.php' ?>
 	<?php include 'utils/footer/index.php' ?>
 </div>
 <?php include 'utils/js/index.php' ?>
