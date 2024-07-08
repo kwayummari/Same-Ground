@@ -82,30 +82,7 @@ $id = base64_decode($_GET['id']);
 		</div>
 	</div>
 	
-	<!-- Call To Action Three Section -->
-	<section class="call-to-action-section-three" style="background-image: url(images/background/11.jpg)">
-		<div class="auto-container">
-			<div class="row clearfix">
-				
-				<!-- Title Column -->
-				<div class="title-column col-lg-8 col-md-12 col-sm-12">
-					<div class="inner-column">
-						<div class="experiance">With over 20 years of experience</div>
-						<h2>In need of a new wardrobe, kitchen installation, renovation or any other woodwork.</h2>
-					</div>
-				</div>
-				
-				<!-- Button Column -->
-				<div class="btn-column col-lg-4 col-md-12 col-sm-12">
-					<div class="inner-column">
-						<div class="number">+ 62 867 6872</div>
-						<a href="contact.html" class="theme-btn btn-style-three"><span class="txt">Contact Us</span></a>
-					</div>
-				</div>
-				
-			</div>
-		</div>
-	</section>
+	<?php include 'utils/quote/index.php' ?>
 	<!-- End Call To Action Three Section -->
 	
 	<!--Clients Section-->
@@ -132,8 +109,5 @@ $id = base64_decode($_GET['id']);
 	<?php include 'utils/footer/index.php' ?>
 </div>
 <?php include 'utils/js/index.php' ?>
-
 </body>
-
-<!-- sawmall/about.html  26 Nov 2019 04:20:30 GMT -->
 </html>
