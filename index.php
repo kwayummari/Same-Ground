@@ -12,13 +12,7 @@
 	<?php include 'utils/slider/index.php' ?>
 	<?php include 'utils/about/index.php' ?>
 	<?php include 'utils/counter/index.php' ?>
-	<?php include 'utils/winners/index.php' ?>
-	<?php include 'utils/prize/index.php' ?>
-	<?php include 'utils/action/index.php' ?>
-	<?php include 'utils/testimonial/index.php' ?>
-	<?php include 'utils/news/index.php' ?>
-	<?php include 'utils/quote/index.php' ?>
-	<?php include 'utils/footer/index.php' ?>
+	
 </div>
 <!--End pagewrapper-->
 <?php include 'utils/js/index.php' ?>

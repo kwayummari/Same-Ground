@@ -1,4 +1,3 @@
-<!-- News Section -->
 <?php include 'cms/api/index.php' ?>
 <section class="news-section">
 		<div class="auto-container">

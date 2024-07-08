@@ -14,7 +14,7 @@
 									<div class="count-outer count-box">
 										<span class="count-text" data-speed="2500" data-stop="17">17</span>
 									</div>
-									<h4 class="counter-title">CATEGORIES</h4>
+									<h4 class="counter-title">Reduced inequalities</h4>
 								</div>
 							</div>
 						</div>
@@ -27,7 +27,7 @@
 									<div class="count-outer count-box alternate">
 										<span class="count-text" data-speed="3000" data-stop="200">200</span>
 									</div>
-									<h4 class="counter-title">NOMINATIONS</h4>
+									<h4 class="counter-title">Quality education</h4>
 								</div>
 							</div>
 						</div>
@@ -40,7 +40,7 @@
 									<div class="count-outer count-box">
 										<span class="count-text" data-speed="3000" data-stop="10">10</span>K
 									</div>
-									<h4 class="counter-title">VOTES</h4>
+									<h4 class="counter-title">Decent work and economic growth</h4>
 								</div>
 							</div>
 						</div>
@@ -53,7 +53,7 @@
 									<div class="count-outer count-box">
 										<span class="count-text" data-speed="2500" data-stop="34">34</span>
 									</div>
-									<h4 class="counter-title">WINNERS</h4>
+									<h4 class="counter-title">Climate action</h4>
 								</div>
 							</div>
 						</div>

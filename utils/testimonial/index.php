@@ -1,12 +1,3 @@
-<?php
-include 'cms/connection/index.php';
-
-  $query="select * from testimonial";
-  $result4=mysqli_query($connect,$query);
-  $total_users = mysqli_num_rows($result4);
-
- ?>
-<!-- Testimonial Section Three -->
 <section class="testimonial-section-three" style="background-image: url(images/background/10.jpg)">
 		<div class="auto-container">
 			<!-- Sec Title -->
@@ -16,10 +7,6 @@ include 'cms/connection/index.php';
 			</div>
 			
 			<div class="testimonial-carousel owl-carousel owl-theme">
-			<?php   // LOOP TILL END OF DATA
-                                                    while($rows4=$result4->fetch_assoc())
-                                                         {
-                                                       ?>
 				<!-- Testimonial Block Three -->
 				<div class="testimonial-block-three">
 					<div class="inner-box">
@@ -46,9 +33,6 @@ include 'cms/connection/index.php';
 						</div>
 					</div>
 				</div>
-				<?php
-                                                     }
-                                                     ?>
 				
 			</div>
 			
