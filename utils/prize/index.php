@@ -57,7 +57,7 @@
 				<div class="image-column col-lg-6 col-md-12 col-sm-12">
 					<div class="inner-column">
 						<div class="image">
-							<img src="images/background/zz.png" alt="" />
+							<img src="images/gallery/mmm.jpg" alt="" />
 						</div>
 					</div>
 				</div>
