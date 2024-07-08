@@ -11,7 +11,6 @@ $username = $_SESSION['name'];
 $query = "select * from blog";
 $result4 = mysqli_query($connect, $query);
 $total_users = mysqli_num_rows($result4);
-echo $result4;
 
 ?>
 <!DOCTYPE html>
