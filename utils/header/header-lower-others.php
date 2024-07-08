@@ -18,7 +18,7 @@
                                     <ul class="navigation clearfix">
 									<li><a href="index.php">Home</a>
 									</li>
-									<li class="dropdown"><a href="#">About</a>
+									<li class="dropdown"><a href="#">Our Story</a>
 										<ul>
 											<li><a href="about.php">About Us</a></li>
 										</ul>

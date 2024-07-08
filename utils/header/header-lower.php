@@ -18,8 +18,7 @@
 									</li>
 									<li class="dropdown"><a href="#">Our Story</a>
 										<ul>
-											<li><a href="#">About Us</a></li>
-											<li><a href="#">Our Team</a></li>
+											<li><a href="about.php">About Us</a></li>
 										</ul>
 									</li>
 									<li ><a href="#">What We Do</a>
