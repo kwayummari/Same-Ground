@@ -81,31 +81,8 @@ $id = base64_decode($_GET['id']);
 			</div>
 		</div>
 	</div>
-	
 	<?php include 'utils/quote/index.php' ?>
-	<!-- End Call To Action Three Section -->
-	
-	<!--Clients Section-->
-    <section class="clients-section style-two">
-        <div class="auto-container">
-            
-            <div class="sponsors-outer">
-                <!--Sponsors Carousel-->
-                <ul class="sponsors-carousel owl-carousel owl-theme">
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure></li>
-                </ul>
-            </div>
-            
-        </div>
-    </section>
-    <!--End Clients Section-->
-	
+	<?php include 'utils/quote/index.php' ?>
 	<?php include 'utils/footer/index.php' ?>
 </div>
 <?php include 'utils/js/index.php' ?>
