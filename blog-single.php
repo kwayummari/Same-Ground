@@ -51,7 +51,6 @@ $total_users = mysqli_num_rows($result4);
 											<li><?php echo $rows4['date']; ?></li>
 										</ul>
 										<h3><?php echo $rows4['title']; ?></h3>
-										<img alt=\"\" src=\"blob:https://sameground.or.tz/cms/cv/99ee2d20-05de-4192-a32c-aa12d892f4d4\" width=\"1000\" />
 										<div class="text">
 											<p><?php echo $rows4['description']; ?>.</p>
 										</div>
