@@ -17,12 +17,7 @@
 	<?php include 'utils/winners/index.php' ?>
 	<?php include 'utils/quote/index.php' ?>
 	<?php include 'utils/footer/index.php' ?>
-	
-	
-	
 </div>
-<!--End pagewrapper-->
 <?php include 'utils/js/index.php' ?>
 </body>
-<!-- sawmall/index-3.html  26 Nov 2019 04:20:30 GMT -->
 </html>
