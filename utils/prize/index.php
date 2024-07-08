@@ -43,7 +43,7 @@
 								<div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Diversity</div>
 								<div class="acc-content">
 									<div class="content">
-										<div class="text">The nominee's leadership and advocacy in advancing the status of women in Tanzania. This could include efforts to empower women to take on leadership roles, as well as work to promote policies and programs that support women's rights and gender equality. The nominee's work may have helped to break down traditional gender roles and stereotypes, or inspired other women to become leaders and advocates for women's rights. Ultimately, the fourth point recognizes the importance of women's leadership and advocacy in creating a more equitable and just society, and the nominee's contributions to this goal.</div>
+										<div class="text">Diversity, as an organizational value, celebrates and leverages the unique backgrounds, perspectives, and talents of all employees. It fosters an inclusive environment where everyone feels respected and valued. Embracing diversity enhances creativity, drives innovation, and leads to better decision-making, ultimately contributing to the organization's success and growth.</div>
 									</div>
 								</div>
 							</li>
