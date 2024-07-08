@@ -34,6 +34,7 @@
 	<?php include 'utils/experience/index.php' ?>
 	<?php include 'utils/counter/index.php' ?>
 	<?php include 'utils/prize/index.php' ?>
+	<?php include 'utils/partners/partners.php' ?>
 	<?php include 'utils/footer/index.php' ?>
 </div>
 <?php include 'utils/js/index.php' ?>
